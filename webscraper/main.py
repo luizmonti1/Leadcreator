@@ -20,33 +20,9 @@ def main():
     duration = 4 * 60 * 60  # 4 hours in seconds
 
     segments = {
-     "blog para casa": [
-            "Blog de decoração de interiores",
-            "Blog de dicas de limpeza",
-            "Blog de organização de casa",
-            "Blog de personal organizer"
-            "Blog de dicas para casa",
-            "Dicas de decoração para sala",
-            "Organização de espaços pequenos",
-            "Técnicas de limpeza ecológica",
-            "Ideias de decoração sustentável",
-            "Conselhos de organização pessoal",
-            "Dicas de organização de casa",
-            "Dicas de limpeza de casa",          
-            ],
-        "quiz minha casa": [
-            "Quiz de decoração de interiores",
-            "Quiz de dicas de limpeza",
-            "Quiz de organização de casa",
-            "Quiz de personal organizer"
-            "Quiz de dicas para casa",
-            "Quiz de decoração para sala",
-            "Quiz de organização de espaços pequenos",
-            "Quiz de limpeza ecológica",
-            "Quiz de decoração sustentável",
-            "Quiz de organização pessoal",
-        ]
-    }
+     "input yours": [
+            "keywords",         
+            ]
 
     for segment, keywords in segments.items():
         for keyword in keywords:
