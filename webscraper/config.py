@@ -4,15 +4,15 @@ from pathlib import Path
 from logging.handlers import RotatingFileHandler
 
 # Environment variables for sensitive data
-SEARCH_ENGINE_ID = os.getenv("SEARCH_ENGINE_ID", "f7bb2832255ed421d")
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "AIzaSyC7Z3EnVpUVJOfB1pD3pwV9qbk5s628NXU"),
+SEARCH_ENGINE_ID = os.getenv("SEARCH_ENGINE_ID", "")
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "),
 OPENAI_API_KEY = os.getenv(
-    "OPENAI_API_KEY", "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"
+    "OPENAI_API_KEY", ""
 ),
-ORGANIZATION=os.getenv('org-5thX2SmWHafCHi5zVQ8S5ha5')
+ORGANIZATION=os.getenv('')
 GOOGLE_OAUTH_CLIENT_ID = os.getenv(
     "GOOGLE_OAUTH_CLIENT_ID",
-    "515387361174-r3oinqgbaqjn1dhbbge6ugrlk7haqfka.apps.googleusercontent.com",
+    "",
 )
 
 # Database configuration
