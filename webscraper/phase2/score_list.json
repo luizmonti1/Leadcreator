@@ -1,0 +1,4358 @@
+[
+    {
+        "url": "https://example.com",
+        "segment": "health",
+        "seo_status": {
+            "basic_seo_score": 0
+        },
+        "load_time": {
+            "Performance Score": 0
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0
+        },
+        "total score": 0
+    },
+    {
+        "url": "https://apps.apple.com/us/app/cl%C3%ADnica-m%C3%A9dica-2023/id6464505005",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.58
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.3
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.66
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.83
+    },
+    {
+        "url": "https://www.rededorsaoluiz.com.br/especialidades/clinica-medica",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.43
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.41
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.43
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.48
+    },
+    {
+        "url": "https://play.google.com/store/apps/details?id=br.com.inteligenciaweb.clinicamedica",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.76
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.45
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.76
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.09
+    },
+    {
+        "url": "https://www.google.com/mymaps/viewer?mid=zcq41dj3HHNc.kuUpQuwLLOEg&hl=en_US",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.85
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.4
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.85
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.31
+    },
+    {
+        "url": "https://www.manole.com.br/curso-de-clinica-medica-ambulatorial-3-edicao/p",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.53
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.09
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.75
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.66
+    },
+    {
+        "url": "https://www.google.com/mymaps/viewer?mid=1ybNbkki6Ur-yJDsrbbGCqmuIiyE&hl=pt_BR",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.83
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.42
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.84
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.3
+    },
+    {
+        "url": "https://www.scielo.br/j/rsp/a/dY4tVF5tWXkrfkyjz5Sp4rM/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.73
+        },
+        "load_time": {
+            "Performance Score": 0.93
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.53
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.75
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.23
+    },
+    {
+        "url": "http://ppgfm.medicina.ufrj.br/index.php/editais/58-programas/clinica-medica/clinica-medica-edital/52-clinica-medica-edital-mestrado",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.73
+        },
+        "load_time": {
+            "Performance Score": 0.56
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.48
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.56
+            }
+        },
+        "pwa_features_status": {
+            "score": 0
+        },
+        "total score": 2.33
+    },
+    {
+        "url": "https://www.medway.com.br/conteudos/o-que-e-clinica-medica-saiba-tudo-sobre-essa-especialidade/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.62
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.33
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.54
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.7
+    },
+    {
+        "url": "https://www.massgeneral.org/medicine/infectious-diseases/treatments-and-programs/sexual-health-program-pt",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.88
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.37
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.88
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.71
+        },
+        "total score": 3.67
+    },
+    {
+        "url": "https://sebrae.com.br/sites/PortalSebrae/ideias/como-montar-uma-clinica-de-saude,63097a51b9105410VgnVCM1000003b74010aRCRD",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.75
+        },
+        "load_time": {
+            "Performance Score": 0.31
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.11
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.38
+            }
+        },
+        "pwa_features_status": {
+            "score": 1
+        },
+        "total score": 2.55
+    },
+    {
+        "url": "https://www.amorsaude.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.35
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 1.47
+    },
+    {
+        "url": "https://clinicadasaudern.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.8
+        },
+        "load_time": {
+            "Performance Score": 0.48
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0
+        },
+        "total score": 1.28
+    },
+    {
+        "url": "https://saudebrb.com.br/clinica-saude-brb/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.76
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.33
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.76
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.9699999999999998
+    },
+    {
+        "url": "https://clinicadasaude.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.39
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.26
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.35
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.12
+    },
+    {
+        "url": "https://anchieta.br/clinica-da-saude/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.94
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.78
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.98
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.9899999999999998
+    },
+    {
+        "url": "https://www.emesaude.pt/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.66
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.43
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.68
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.89
+    },
+    {
+        "url": "https://www.clinicaminutosaude.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.75
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.4
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.75
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.11
+    },
+    {
+        "url": "https://www.scielo.br/j/pboci/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.73
+        },
+        "load_time": {
+            "Performance Score": 0.7
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.67
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.7
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.09
+    },
+    {
+        "url": "https://revista.uepb.edu.br/PBOCI/about/submissions",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.82
+        },
+        "load_time": {
+            "Performance Score": 0
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0
+        },
+        "total score": 0.82
+    },
+    {
+        "url": "https://clinicaintegrada.com/site/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.91
+        },
+        "load_time": {
+            "Performance Score": 0.74
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 1.94
+    },
+    {
+        "url": "https://www.unochapeco.edu.br/clinica-integrada",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.82
+        },
+        "load_time": {
+            "Performance Score": 0.57
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.28
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.55
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.51
+    },
+    {
+        "url": "https://revista.uepb.edu.br/index.php/pboci/index",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.73
+        },
+        "load_time": {
+            "Performance Score": 0.77
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.67
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.77
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.23
+    },
+    {
+        "url": "https://www.univag.com.br/servicos/3/clinica-integrada/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.82
+        },
+        "load_time": {
+            "Performance Score": 0.63
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.44
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.3
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.48
+    },
+    {
+        "url": "https://www.unibrasil.com.br/servicos/clinica-integrada-de-saude/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.45
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.15
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.49
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.21
+    },
+    {
+        "url": "https://www.unibh.br/clinica-integrada-da-saude/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.67
+        },
+        "load_time": {
+            "Performance Score": 0.88
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.34
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.88
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.06
+    },
+    {
+        "url": "https://sescrn.com.br/clinica-integrada/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.77
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.39
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.77
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.05
+    },
+    {
+        "url": "https://www.spms.min-saude.pt/2017/05/visao-clinica-integrada-novo-pce/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.75
+        },
+        "load_time": {
+            "Performance Score": 0.38
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.38
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.38
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.18
+    },
+    {
+        "url": "https://app.powerbi.com/view?r=eyJrIjoiY2ZiYmZkODUtMjE5Ni00NWJmLWJjYzUtNzBkNjQ2ZWJkOGJlIiwidCI6IjIyYzg0NjA4LWYwMWQtNDZjNS04MDI0LTYzY2M5NjJlNWY1MSIsImMiOjh9",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.6
+        },
+        "load_time": {
+            "Performance Score": 0.08
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.09
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.12
+            }
+        },
+        "pwa_features_status": {
+            "score": 0
+        },
+        "total score": 0.89
+    },
+    {
+        "url": "https://transparencia.sns.gov.pt/explore/dataset/evolucao-das-consultas-medicas-nos-csp/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.58
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.35
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.58
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.63
+    },
+    {
+        "url": "https://www.sosconsultasmedicas.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.59
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.52
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.62
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.02
+    },
+    {
+        "url": "https://centraldeconsultas.med.br/consultas-medicas/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.67
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.3
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.83
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.01
+    },
+    {
+        "url": "https://www.setmore.com/pt/industries/doctors",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.93
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.68
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.98
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.8800000000000003
+    },
+    {
+        "url": "https://copconsultasmedicas.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 1
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.81
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 1
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 4.02
+    },
+    {
+        "url": "http://www.seer.ufsj.edu.br/index.php/recom/article/view/1015",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.91
+        },
+        "load_time": {
+            "Performance Score": 0.73
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.78
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.62
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.33
+    },
+    {
+        "url": "https://labiexames.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.34
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.12
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.35
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.71
+        },
+        "total score": 2.52
+    },
+    {
+        "url": "https://cientificalab.com.br/resultados-de-exames",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.82
+        },
+        "load_time": {
+            "Performance Score": 0.55
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.48
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.55
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.69
+    },
+    {
+        "url": "https://www.sabin.com.br/resultados",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.73
+        },
+        "load_time": {
+            "Performance Score": 0.56
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.33
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.56
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.47
+    },
+    {
+        "url": "https://4rm.eb.mil.br/index.php/resultados-de-exames",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.73
+        },
+        "load_time": {
+            "Performance Score": 0.55
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.54
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.55
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.66
+    },
+    {
+        "url": "https://www.fleury.com.br/exames",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.45
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.26
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.49
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.86
+        },
+        "total score": 2.89
+    },
+    {
+        "url": "https://magscan.com.br/exames-laboratoriais-principais-tipos-e-como-se-preparar/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.91
+        },
+        "load_time": {
+            "Performance Score": 0.88
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.51
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.88
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.47
+    },
+    {
+        "url": "https://www.unimed.coop.br/site/web/amparo/exames-laboratoriais",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.48
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.19
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.48
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.57
+        },
+        "total score": 2.55
+    },
+    {
+        "url": "https://loja.sabin.com.br/exames-laboratoriais",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.58
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.26
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.6
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.56
+    },
+    {
+        "url": "https://radiologicafsa.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.49
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.52
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.49
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.71
+    },
+    {
+        "url": "https://www.radiologicarv.com/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.98
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.75
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.98
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.83
+    },
+    {
+        "url": "https://www.crs.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0
+        },
+        "load_time": {
+            "Performance Score": 0.51
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 0.8
+    },
+    {
+        "url": "https://cra.med.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.73
+        },
+        "load_time": {
+            "Performance Score": 0.58
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.52
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.61
+            }
+        },
+        "pwa_features_status": {
+            "score": 0
+        },
+        "total score": 2.44
+    },
+    {
+        "url": "https://clinicaradiologicapvai.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.8
+        },
+        "load_time": {
+            "Performance Score": 0.48
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.11
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.48
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.16
+    },
+    {
+        "url": "https://www.google.com/mymaps/viewer?mid=1SyO1IQs7keMnanHoCikTWtlfpHw&hl=pt_BR",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.85
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.42
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.85
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.33
+    },
+    {
+        "url": "https://clinicaradiologicapvai.com.br/login2.php",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.89
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.79
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.89
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.8600000000000003
+    },
+    {
+        "url": "https://clinicaradiologicalorena.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.75
+        },
+        "load_time": {
+            "Performance Score": 0.55
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.49
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.55
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.63
+    },
+    {
+        "url": "https://www.clinicaradiologicamedvida.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.8
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.51
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.8
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.3200000000000003
+    },
+    {
+        "url": "https://radiologica.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.8
+        },
+        "load_time": {
+            "Performance Score": 0.28
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 1.37
+    },
+    {
+        "url": "https://centraldeconsultas.med.br/blog/check-up-preventivo-o-que-e-e-qual-sua-importancia/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.82
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.39
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.8
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.3
+    },
+    {
+        "url": "https://www.checkuppreventivodigital.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.91
+        },
+        "load_time": {
+            "Performance Score": 0.58
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.44
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.7
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.92
+    },
+    {
+        "url": "https://www.biomedlab.com.br/exames-preventivos-por-que-voce-precisa-de-um-checkup/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.91
+        },
+        "load_time": {
+            "Performance Score": 0.98
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.71
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.98
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.87
+    },
+    {
+        "url": "https://www.careplus.com.br/a-careplus/gestao-de-saude/programas-preventivos",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.65
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.32
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.65
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.71
+        },
+        "total score": 3.25
+    },
+    {
+        "url": "https://magscan.com.br/blog/check-up-masculino-quais-exames-todo-homem-deve-fazer/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.93
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.65
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.93
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.72
+    },
+    {
+        "url": "https://salve.com.br/check-ups/check-up-preventivo-saude-em-dia/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.91
+        },
+        "load_time": {
+            "Performance Score": 0.94
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.5
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.95
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.59
+    },
+    {
+        "url": "https://mastologistadrgiuliano.com.br/preventivos/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.96
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.08
+    },
+    {
+        "url": "https://www.laboratoriocentral.com.br/checkups/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.95
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.16
+    },
+    {
+        "url": "https://labimagem.com.br/check-up-preventivo-qual-e-a-sua-importancia/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.55
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.36
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.55
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.58
+    },
+    {
+        "url": "https://laboratoriosaomarcos.com/checkups/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.91
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.12
+    },
+    {
+        "url": "https://fami.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.72
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 1.8399999999999999
+    },
+    {
+        "url": "https://pt.wikipedia.org/wiki/Tecnologia_m%C3%A9dica",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0
+        },
+        "load_time": {
+            "Performance Score": 0
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0
+        },
+        "total score": 0
+    },
+    {
+        "url": "https://www.casadatecnologiamedica.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.82
+        },
+        "load_time": {
+            "Performance Score": 0.86
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.43
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.59
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.71
+        },
+        "total score": 3.4099999999999997
+    },
+    {
+        "url": "https://www.linkedin.com/company/famitecmed",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0
+        },
+        "load_time": {
+            "Performance Score": 0
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0
+        },
+        "total score": 0
+    },
+    {
+        "url": "https://portal-chsj.min-saude.pt/a-nossa-saude/areas-de-suporte/centro-diferenciado-de-tecnologia-medica",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.82
+        },
+        "load_time": {
+            "Performance Score": 0.55
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.4
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.55
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.61
+    },
+    {
+        "url": "https://www.ipp.pt/ensino/cursos/mestrado/ess/617",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.55
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.51
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.68
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.95
+    },
+    {
+        "url": "https://www.tmed.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.56
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.24
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.53
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.54
+    },
+    {
+        "url": "https://www.lek.com/pt-br/setores/tecnologia-medica",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.75
+        },
+        "load_time": {
+            "Performance Score": 0.93
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.35
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.88
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.2
+    },
+    {
+        "url": "https://be.linkedin.com/company/famitecmed?trk=public_profile_experience-item_profile-section-card_image-click",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0
+        },
+        "load_time": {
+            "Performance Score": 0
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0
+        },
+        "total score": 0
+    },
+    {
+        "url": "http://www.fcm.unicamp.br/posgraduacao/clinica-medica",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.91
+        },
+        "load_time": {
+            "Performance Score": 0.55
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.52
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.55
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.8200000000000003
+    },
+    {
+        "url": "https://invoxmedical.com/pt-br/blog/os-3-congressos-de-tecnologia-medica-que-voce-nao-pode-perder/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0
+        },
+        "load_time": {
+            "Performance Score": 0.64
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 0.9299999999999999
+    },
+    {
+        "url": "https://educacao-executiva.fgv.br/sp/sao-paulo/cursos/mba-pos-graduacao/mba-presencial/mba-executivo-em-administracao-gestao-de-clinicas-hospitais-e-industrias-da-saude",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.75
+        },
+        "load_time": {
+            "Performance Score": 0.34
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.27
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.27
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 1.92
+    },
+    {
+        "url": "https://www.amplimed.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.5
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.45
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.5
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.66
+    },
+    {
+        "url": "https://estacio.br/cursos/pos-graduacao/gestao-de-clinicas-e-consultorios",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.75
+        },
+        "load_time": {
+            "Performance Score": 0.27
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 1.31
+    },
+    {
+        "url": "https://conclinica.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.96
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.76
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.92
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.86
+        },
+        "total score": 4.33
+    },
+    {
+        "url": "https://ensino.einstein.br/curso_gt_programa_gestao_consultorios_clini_p1385/p",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.75
+        },
+        "load_time": {
+            "Performance Score": 0.12
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.01
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.12
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 1.29
+    },
+    {
+        "url": "https://www.posanhanguera.com.br/mba-em-gestao-de-clinicas-e-consultorios-anhanguera-ead-6-meses/p",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.38
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.02
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.39
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 1.91
+    },
+    {
+        "url": "https://feegowclinic.com.br/gestao-de-clinicas-e-consultorios-blog/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.6
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.27
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.6
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.59
+    },
+    {
+        "url": "https://maislaudo.com.br/blog/gestao-de-clinicas-e-consultorios/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.63
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.37
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.59
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.88
+    },
+    {
+        "url": "https://www.pixeon.com/blog/gestao-clinica/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.8
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.95
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.8
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.67
+    },
+    {
+        "url": "https://www.meuconsultorio.com/blog/gestao-administrativa-e-financeira-de-clinicas-e-consultorios/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.85
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.39
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.85
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.38
+    },
+    {
+        "url": "https://www.anhanguera.com/curso/gestao-hospitalar/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.48
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 1.69
+    },
+    {
+        "url": "https://uniespg.com.br/sessao-3-detalhe/236170/gestao-hospitalar-mba",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.73
+        },
+        "load_time": {
+            "Performance Score": 0.65
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.4
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.65
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.72
+    },
+    {
+        "url": "https://querobolsa.com.br/cursos-e-faculdades/gestao-hospitalar",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.29
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.33
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.68
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.86
+        },
+        "total score": 3.08
+    },
+    {
+        "url": "https://www.unip.br/cursos/graduacao/tecnologicos/gestao_hospitalar.aspx",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.27
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.15
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.56
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.19
+    },
+    {
+        "url": "https://saocamilo-sp.br/graduacao/a_distancia/gestao_hospitalar",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0
+        },
+        "load_time": {
+            "Performance Score": 0.54
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.18
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.3
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 1.31
+    },
+    {
+        "url": "https://estacio.br/cursos/graduacao/gestao-hospitalar",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0
+        },
+        "load_time": {
+            "Performance Score": 0.26
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 0.55
+    },
+    {
+        "url": "https://www.unifaa.edu.br/cursos/ead/gestao-hospitalar",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.75
+        },
+        "load_time": {
+            "Performance Score": 0.89
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.42
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.45
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.8
+    },
+    {
+        "url": "https://www.sosconsultasmedicas.com.br/agendamento",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.66
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.34
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.71
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.0
+    },
+    {
+        "url": "https://www.ifsc.edu.br/curso-aberto/-/asset_publisher/nvqSsFwoxoh1/content/id/657297",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.55
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.31
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.55
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.5300000000000002
+    },
+    {
+        "url": "https://www.faculdadeunimed.edu.br/cursos/graduacao/gestao-hospitalar",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.64
+        },
+        "load_time": {
+            "Performance Score": 0.68
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.38
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.68
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.57
+        },
+        "total score": 2.95
+    },
+    {
+        "url": "https://www.ensp.unl.pt/cursos/especializacoes/administracao-hospitalar/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0
+        },
+        "load_time": {
+            "Performance Score": 0.56
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 0.8500000000000001
+    },
+    {
+        "url": "https://telemedicinamorsch.com.br/blog/administracao-hospitalar",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 1
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.92
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 1
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.71
+        },
+        "total score": 4.63
+    },
+    {
+        "url": "https://www.uninove.br/cursos/mba/presencial-e-ead/administracao-hospitalar",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.7
+        },
+        "load_time": {
+            "Performance Score": 0.74
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.31
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.64
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.6799999999999997
+    },
+    {
+        "url": "https://www.guiadacarreira.com.br/blog/administracao-hospitalar",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.46
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.61
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.98
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.86
+        },
+        "total score": 3.91
+    },
+    {
+        "url": "https://revistas.face.ufmg.br/index.php/rahis",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.82
+        },
+        "load_time": {
+            "Performance Score": 0.63
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.64
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.63
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.01
+    },
+    {
+        "url": "https://eaesp.fgv.br/cursos/curso-especializacao-administracao-hospitalar-e-sistemas-saude-ceahs-mba-gestao-saude",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0
+        },
+        "load_time": {
+            "Performance Score": 0.46
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0
+        },
+        "total score": 0.46
+    },
+    {
+        "url": "https://ibdah.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.91
+        },
+        "load_time": {
+            "Performance Score": 0.53
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.34
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.53
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.6
+    },
+    {
+        "url": "https://www.hc.fm.usp.br/hc/ensino/proahsa",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.82
+        },
+        "load_time": {
+            "Performance Score": 0.68
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.49
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.76
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.04
+    },
+    {
+        "url": "https://guia.unl.pt/pt/2023/ensp/program/599",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0
+        },
+        "load_time": {
+            "Performance Score": 0.59
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 0.8799999999999999
+    },
+    {
+        "url": "https://blog.pitagoras.com.br/administracao-hospitalar/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.78
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.21
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.51
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.79
+    },
+    {
+        "url": "https://equipmentfinance.societegenerale.com/pt/segmentos/equipamentos-medicos-energia-sustentavel/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.96
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.65
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.96
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.78
+    },
+    {
+        "url": "https://www.sgs.com/pt-pt/servicos/norma-iso-13485-2016-transicao-certificacao-e-curso-para-auditor",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.9
+        },
+        "load_time": {
+            "Performance Score": 0.65
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.26
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.65
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.75
+    },
+    {
+        "url": "https://novainterface.com.br/med/fornecedor-de-equipamentos-medicos/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.9
+        },
+        "load_time": {
+            "Performance Score": 0.95
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.69
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.9
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.73
+    },
+    {
+        "url": "https://repositorio.ufrn.br/handle/123456789/30705",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.73
+        },
+        "load_time": {
+            "Performance Score": 0.33
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.5
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.33
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.18
+    },
+    {
+        "url": "https://pt.nbshuaner.com/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.91
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.63
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.91
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.66
+    },
+    {
+        "url": "https://sdexpmedical.com/pt/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.82
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.32
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.71
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.9699999999999998
+    },
+    {
+        "url": "https://paramedica.pt/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.67
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 1.8800000000000001
+    },
+    {
+        "url": "https://www.mordorintelligence.com/pt/industry-reports/uae-aesthetic-devices-market",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.97
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.73
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.99
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.98
+    },
+    {
+        "url": "https://www.hospitalardistribuidora.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.91
+        },
+        "load_time": {
+            "Performance Score": 0.6
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.54
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.6
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.71
+        },
+        "total score": 3.36
+    },
+    {
+        "url": "https://www.dormed.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.6
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.21
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.46
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.56
+    },
+    {
+        "url": "https://www.google.com/mymaps/viewer?mid=1htLFbb6xcLZvdEF6mQymUDzQFD4&hl=pt_BR",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.82
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.36
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.82
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.21
+    },
+    {
+        "url": "https://portugal2030.pt/aviso/equipamentos-hospitalares/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0
+        },
+        "load_time": {
+            "Performance Score": 0.86
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 1.15
+    },
+    {
+        "url": "https://www.fortmedical.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.63
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.11
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.63
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.4899999999999998
+    },
+    {
+        "url": "https://www.centercorhospitalar.com.br/equipamentos-hospitalares",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.71
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.21
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.71
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.84
+    },
+    {
+        "url": "https://3dwarehouse.sketchup.com/collection/48196286-f9b8-4bd0-8b07-be1176aa9ca6/EQUIPAMENTOS-HOSPITALARES-HOSPITAL-EQUIPMENT?sortBy=createTime%20DESC&searchTab=model&hl=ko",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.82
+        },
+        "load_time": {
+            "Performance Score": 0.42
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.07
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.42
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.02
+    },
+    {
+        "url": "https://jobs.medtronic.com/careers/job/19386508-analista-de-servi%C3%A7os-jr-%E2%80%93-manuten%C3%A7%C3%A3o-de-equipamentos-hospitalares-osasco--osasco-sao-paulo-brazil?domain=medtronic.com",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.09
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0
+        },
+        "total score": 0.9199999999999999
+    },
+    {
+        "url": "https://www.centermedical.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.8
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.34
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.8
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.23
+    },
+    {
+        "url": "https://www.afro.who.int/pt/news/oms-doa-equipamentos-hospitalares-e-reagentes-ao-ministerio-da-saude-de-cabo-verde-em-resposta",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.55
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.55
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.55
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.94
+    },
+    {
+        "url": "https://www.nvidia.com/pt-br/clara/medical-devices/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.57
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.25
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.69
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.8
+    },
+    {
+        "url": "https://share.america.gov/pt-br/dispositivos-medicos-em-feira-de-tecnologia-nos-eua/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.73
+        },
+        "load_time": {
+            "Performance Score": 1
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.98
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 1
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 4.0
+    },
+    {
+        "url": "https://pt.sterigenics.com/nelson-labs-and-sterigenics-open-state-of-the-art-laboratory-and-expand-sterilization-facilities-to-meet-growing-customer-demand-in-europe/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.88
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.86
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.88
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.83
+    },
+    {
+        "url": "https://www.precisionostech.com/pt/the-prestigious-american-shoulder-and-elbow-surgeons-society-ases-partners-with-precisionos/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.91
+        },
+        "load_time": {
+            "Performance Score": 1
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.2
+    },
+    {
+        "url": "https://pt.sterigenics.com/industries/packaging-sterilization/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 1
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.8
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 1
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 4.01
+    },
+    {
+        "url": "https://fami.com.br/2022/06/seguranca-e-confiabilidade-no-processamento-de-dispositivos-medicos-oticos-e-sistemas-roboticos/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.75
+        },
+        "load_time": {
+            "Performance Score": 0.86
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 1.9
+    },
+    {
+        "url": "https://www.consilium.europa.eu/pt/policies/new-rules-medical-in-vitro-diagnostic-devices/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.8
+        },
+        "load_time": {
+            "Performance Score": 0.86
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 1.95
+    },
+    {
+        "url": "https://embarcados.com.br/alimentando-dispositivos-medicos-principais-tendencias-e-consideracoes-de-projeto/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.44
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 1
+        },
+        "total score": 2.27
+    },
+    {
+        "url": "https://shibaura-machine.com.br/industrias/medica/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.42
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.4
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.4
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.34
+    },
+    {
+        "url": "https://www.tuvsud.com/pt-br/industrias/dispositivos-medicos/dispositivos-medicos-e-ivd/teste-de-dispositivos-medicos/dispositivo-medico-ativo",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.97
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.26
+    },
+    {
+        "url": "https://www.int.reachsurgical.com/pt/about",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.91
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.45
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.91
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.56
+    },
+    {
+        "url": "https://www.dormed.com.br/instrumentos-cirurgicos",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.61
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.35
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.61
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.86
+    },
+    {
+        "url": "https://surtex-instruments.com/pt/PRODUTOS/armadilha-retal-de-Norwood/?lang=es",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0
+        },
+        "load_time": {
+            "Performance Score": 0
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0
+        },
+        "total score": 0
+    },
+    {
+        "url": "https://www.harteinstrumentos.com.br/categoria-produto/medicina/instrumentais-cirurgicos-medicina/ganchos/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.9
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.42
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.9
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.51
+    },
+    {
+        "url": "https://surtex-instruments.com/pt/PRODUTOS/instrumento-de-uretrografia-knutson/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0
+        },
+        "load_time": {
+            "Performance Score": 0
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0
+        },
+        "total score": 0
+    },
+    {
+        "url": "https://serrations.com/portuguese/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.72
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.45
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.72
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.1
+    },
+    {
+        "url": "https://pa.linkedin.com/company/cicarelli-instrumentos-cirurgicos?trk=public_profile_experience-item_profile-section-card_image-click",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0
+        },
+        "total score": 0.92
+    },
+    {
+        "url": "https://www.trammit.com.br/175-linha-de-instrumentais-cirurgicos-de-alta-performance",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.8
+        },
+        "load_time": {
+            "Performance Score": 0.93
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.66
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.93
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.6100000000000003
+    },
+    {
+        "url": "https://www.nti.de/dental/pt/shop/Praxis/Chirurgie/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.91
+        },
+        "load_time": {
+            "Performance Score": 0.58
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.48
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.58
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.84
+    },
+    {
+        "url": "https://kndcirurgica.com/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.41
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.11
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.35
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 1.99
+    },
+    {
+        "url": "https://star.med.br/tecnologia-na-saude-o-que-e/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.95
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.95
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.95
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.86
+        },
+        "total score": 4.63
+    },
+    {
+        "url": "https://distrito.me/blog/saude-e-tecnologia-como-a-area-avanca-para-novas-solucoes/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.57
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.42
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.57
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.77
+    },
+    {
+        "url": "https://www.trserv.com.br/tecnologia-na-saude-solucoes-indispensaveis-para-o-setor/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.55
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.31
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.77
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.75
+    },
+    {
+        "url": "https://www.conexasaude.com.br/blog/tecnologia-na-saude/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.58
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.29
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.89
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.05
+    },
+    {
+        "url": "https://solucoescorporativas.afya.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.8
+        },
+        "load_time": {
+            "Performance Score": 0.52
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 1.61
+    },
+    {
+        "url": "https://ctctech.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.84
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.87
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.94
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.86
+    },
+    {
+        "url": "https://www.benner.com.br/novas-tecnologias-em-saude/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.54
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 1.75
+    },
+    {
+        "url": "https://fia.com.br/blog/tecnologia-aplicada-a-saude/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.75
+        },
+        "load_time": {
+            "Performance Score": 0.34
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.63
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.31
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.32
+    },
+    {
+        "url": "https://www.afya.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.51
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 1.72
+    },
+    {
+        "url": "https://www.mv.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.91
+        },
+        "load_time": {
+            "Performance Score": 0.27
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.27
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.23
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 1.97
+    },
+    {
+        "url": "https://www.spms.min-saude.pt/sobre-os-sistemas-de-informacao/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.75
+        },
+        "load_time": {
+            "Performance Score": 0.55
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.34
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.55
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.48
+    },
+    {
+        "url": "https://neuralmed.ai/blog/sistema-de-informacao-em-saude",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.69
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.47
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.88
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.33
+    },
+    {
+        "url": "https://med.estrategia.com/portal/conteudos-gratis/resumo-de-sistema-de-informacao-em-saude-definicao-instrumentos-de-coleta-de-dados-e-mais/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 1
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.92
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 1
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 4.13
+    },
+    {
+        "url": "https://blog.iclinic.com.br/sistemas-de-informacao-em-saude/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.69
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.53
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.68
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.11
+    },
+    {
+        "url": "https://sissgeo.lncc.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.7
+        },
+        "load_time": {
+            "Performance Score": 0.55
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.46
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.6
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.6
+    },
+    {
+        "url": "https://www.pixeon.com/blog/software-de-gestao-hospitalar/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.97
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.68
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.94
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.71
+    },
+    {
+        "url": "https://www.sistemacolmeia.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.82
+        },
+        "load_time": {
+            "Performance Score": 0.52
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.27
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.57
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.4699999999999998
+    },
+    {
+        "url": "https://sishosp.com.br/software-de-gestao-hospitalar-e-clinicas/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.97
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.81
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.97
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.96
+    },
+    {
+        "url": "https://www.be3.co/software-para-gestao-hospitalar-como-escolher/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.87
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.46
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.87
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.41
+    },
+    {
+        "url": "https://www.ramossoft.com/product/wingest-gestao-hospitalar/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.93
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.14
+    },
+    {
+        "url": "https://actiosoftware.com/software-para-gestao-hospitalar/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.75
+        },
+        "load_time": {
+            "Performance Score": 0.74
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.71
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.75
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.2399999999999998
+    },
+    {
+        "url": "https://mv.com.br/pt/blog/10-vantagens-de-adotar-um-software-de-gestao-hospitalar",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.45
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.3
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.58
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.62
+    },
+    {
+        "url": "https://telemedicinamorsch.com.br/blog/sistema-de-gestao-hospitalar-sgh",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 1
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.81
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 1
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.71
+        },
+        "total score": 4.52
+    },
+    {
+        "url": "https://www.alert-online.com/br/in-the-media/software-portugues-para-gestao-hospitalar-testado-com-sucesso-nos-eua",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.75
+        },
+        "load_time": {
+            "Performance Score": 0.55
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.55
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.55
+            }
+        },
+        "pwa_features_status": {
+            "score": 0
+        },
+        "total score": 2.4000000000000004
+    },
+    {
+        "url": "https://www.unicamp.br/unicamp/index.php/noticias/2022/12/19/software-de-gestao-hospitalar-sera-adotado-em-unidades-assistenciais-da-unicamp",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.41
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.36
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.41
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.39
+    },
+    {
+        "url": "https://eletronjun.com.br/2022/10/05/as-inovacoes-da-saude-digital/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.98
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.1
+    },
+    {
+        "url": "https://execonline.hms.harvard.edu/transformacao-digital-na-saude",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.97
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.54
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.98
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.61
+    },
+    {
+        "url": "https://www.fiocruzbrasilia.fiocruz.br/saude-digital-modelo-inovador-e-apresentado-pela-fiocruz/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.5
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.53
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.5
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.65
+    },
+    {
+        "url": "https://www.hc.fm.usp.br/hc/inovacao/saude-digital",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.82
+        },
+        "load_time": {
+            "Performance Score": 0.62
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.45
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.62
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.8
+    },
+    {
+        "url": "https://ceara.fiocruz.br/portal/index.php/simposio-de-saude-digital-compoe-programacao-de-15-anos-da-fiocruz-ceara/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.73
+        },
+        "load_time": {
+            "Performance Score": 0.56
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.39
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.56
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.5300000000000002
+    },
+    {
+        "url": "https://ceara.fiocruz.br/portal/index.php/simposio-em-saude-digital-faz-parte-das-atividades-dos-15-anos-da-fiocruz-ceara/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.73
+        },
+        "load_time": {
+            "Performance Score": 0.56
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.39
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.56
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.5300000000000002
+    },
+    {
+        "url": "https://www.spms.min-saude.pt/saude-digital-global/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.75
+        },
+        "load_time": {
+            "Performance Score": 0.51
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.39
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.51
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.45
+    },
+    {
+        "url": "https://medconsulting.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.29
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.26
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.33
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.17
+    },
+    {
+        "url": "https://ca.linkedin.com/company/geiaconsultoria?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0
+        },
+        "load_time": {
+            "Performance Score": 0
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0
+        },
+        "total score": 0
+    },
+    {
+        "url": "https://selectagestao.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.9
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.02
+    },
+    {
+        "url": "https://www.linkedin.com/posts/geiaconsultoria_momento-mais-que-emocionante-para-todos-n%C3%B3s-activity-7024837017574227968-q5_8?trk=public_profile_like_view",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0
+        },
+        "load_time": {
+            "Performance Score": 0
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0
+        },
+        "total score": 0
+    },
+    {
+        "url": "https://ergoltda.com.br/tratado-gestao/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.78
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.42
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.78
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.1
+    },
+    {
+        "url": "https://blanco.med.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.9
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.59
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.93
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.71
+    },
+    {
+        "url": "https://www.prolucro.com.br/blog/consultoria-em-saude/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.76
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.31
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.76
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.04
+    },
+    {
+        "url": "https://medicinasa.com.br/hcor-consultoria/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.8
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.44
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.8
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.33
+    },
+    {
+        "url": "https://zellosaude.app/quais-as-vantagens-de-contratar-uma-consultoria-em-saude/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.64
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.34
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.66
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.93
+    },
+    {
+        "url": "https://www.humanittare.com.br/gestao-saude",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.98
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.56
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.98
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.81
+    },
+    {
+        "url": "https://eficienciahospitalar.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.4
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 1.61
+    },
+    {
+        "url": "https://www.glintt.com/pt/o-que-fazemos/mercados/healthcare/Consultoria/Paginas/Consultoria-de-Eficiencia.aspx",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.57
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.57
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.57
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.92
+    },
+    {
+        "url": "https://eficienciahospitalar.com.br/reforcosaolucas/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.75
+        },
+        "load_time": {
+            "Performance Score": 0.66
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 1.7
+    },
+    {
+        "url": "https://virtushospitalista.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.92
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.04
+    },
+    {
+        "url": "https://www.hcor.com.br/consultoria-e-gestao/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.35
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.16
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.42
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.05
+    },
+    {
+        "url": "https://rvimola.com.br/logistica-hospitalar-gera-eficiencia-e-agilidade-2/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.75
+        },
+        "load_time": {
+            "Performance Score": 0.91
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.39
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.91
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.25
+    },
+    {
+        "url": "https://nexxto.com/faturamento-hospitalar-como-aumentar-a-eficiencia-no-processo/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.94
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 2.23
+    },
+    {
+        "url": "https://www.cybersecurityconsultingops.com/pt/contact/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 1
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.96
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 1
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 4.25
+    },
+    {
+        "url": "https://www.cybersecurityconsultingops.com/pt/empresas-de-consultoria-de-TI-o-segredo-para-agilizar-suas-opera%C3%A7%C3%B5es-comerciais/encontrar-as-melhores-empresas-de-consultoria-de-TI-perto-de-mim%2C-dicas-e-truques/escolhendo-os-servi%C3%A7os-de-consultoria-de-TI-certos-para-sua-pequena-empresa/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 1
+        },
+        "load_time": {
+            "Performance Score": 0.96
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.91
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.96
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 4.12
+    },
+    {
+        "url": "https://cynoteck.com/pt/healthcare-industry/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.66
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.49
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.93
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.2
+    },
+    {
+        "url": "https://www.consultechsaude.com.br/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.83
+        },
+        "load_time": {
+            "Performance Score": 0.99
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.86
+        },
+        "total score": 2.6799999999999997
+    },
+    {
+        "url": "https://mz.linkedin.com/company/f3m-tecnologia",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0
+        },
+        "load_time": {
+            "Performance Score": 0
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0
+            }
+        },
+        "pwa_features_status": {
+            "score": 0
+        },
+        "total score": 0
+    },
+    {
+        "url": "https://www.fyld.pt/",
+        "segment": "saude",
+        "seo_status": {
+            "basic_seo_score": 0.92
+        },
+        "load_time": {
+            "Performance Score": 0.83
+        },
+        "design_status": {
+            "Mobile Usability": {
+                "Mobile Usability Score": 0.57
+            },
+            "PageSpeed Insights": {
+                "Performance Score": 0.83
+            }
+        },
+        "pwa_features_status": {
+            "score": 0.29
+        },
+        "total score": 3.44
+    }
+]

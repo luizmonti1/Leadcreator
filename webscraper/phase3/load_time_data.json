@@ -1,0 +1,96 @@
+{
+    "performance_score": 0.81,
+    "first_contentful_paint": "0.8\u00a0s",
+    "speed_index": "1.4\u00a0s",
+    "time_to_interactive": "3.8\u00a0s",
+    "first_meaningful_paint": "0.8\u00a0s",
+    "total_blocking_time": "260\u00a0ms",
+    "largest_contentful_paint": "1.7\u00a0s",
+    "cumulative_layout_shift": "0",
+    "critical_request_chains": "4 chains found",
+    "javascript_execution_time": "1.4\u00a0s",
+    "main_thread_work_breakdown": "2.8\u00a0s",
+    "offscreen_images": "Potential savings of 5\u00a0KiB",
+    "efficiently_encode_images": "N/A",
+    "text_compression": "N/A",
+    "render_blocking_resources": "N/A",
+    "server_response_time": "Root document took 50\u00a0ms",
+    "uses_efficient_image_formats": "N/A",
+    "minified_javascript": "N/A",
+    "minified_css": "N/A",
+    "properly_sized_images": "Potential savings of 52\u00a0KiB",
+    "third_party_payloads": "Third-party code blocked the main thread for 440\u00a0ms",
+    "render_blocking_resources_count": 0,
+    "optimization_uses-rel-preconnect": {
+        "description": "Preconnect to required origins",
+        "estimated_savings": 0
+    },
+    "optimization_efficient-animated-content": {
+        "description": "Use video formats for animated content",
+        "estimated_savings": 0
+    },
+    "optimization_server-response-time": {
+        "description": "Initial server response time was short",
+        "estimated_savings": 0
+    },
+    "optimization_offscreen-images": {
+        "description": "Defer offscreen images",
+        "estimated_savings": 0
+    },
+    "optimization_legacy-javascript": {
+        "description": "Avoid serving legacy JavaScript to modern browsers",
+        "estimated_savings": 0
+    },
+    "optimization_unminified-javascript": {
+        "description": "Minify JavaScript",
+        "estimated_savings": 0
+    },
+    "optimization_uses-rel-preload": {
+        "description": "Preload key requests",
+        "estimated_savings": 0
+    },
+    "optimization_render-blocking-resources": {
+        "description": "Eliminate render-blocking resources",
+        "estimated_savings": 0
+    },
+    "optimization_unminified-css": {
+        "description": "Minify CSS",
+        "estimated_savings": 0
+    },
+    "optimization_uses-responsive-images": {
+        "description": "Properly size images",
+        "estimated_savings": 80
+    },
+    "optimization_redirects": {
+        "description": "Avoid multiple page redirects",
+        "estimated_savings": 0
+    },
+    "optimization_uses-optimized-images": {
+        "description": "Efficiently encode images",
+        "estimated_savings": 0
+    },
+    "optimization_unused-css-rules": {
+        "description": "Reduce unused CSS",
+        "estimated_savings": 80
+    },
+    "optimization_uses-text-compression": {
+        "description": "Enable text compression",
+        "estimated_savings": 0
+    },
+    "optimization_duplicated-javascript": {
+        "description": "Remove duplicate modules in JavaScript bundles",
+        "estimated_savings": 40
+    },
+    "optimization_unused-javascript": {
+        "description": "Reduce unused JavaScript",
+        "estimated_savings": 200
+    },
+    "optimization_modern-image-formats": {
+        "description": "Serve images in next-gen formats",
+        "estimated_savings": 0
+    },
+    "optimization_prioritize-lcp-image": {
+        "description": "Preload Largest Contentful Paint image",
+        "estimated_savings": 0
+    }
+}

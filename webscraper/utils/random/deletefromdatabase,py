@@ -1,0 +1,19 @@
+import sqlite3
+
+# Path to your SQLite database
+db_path = 'C:/Users/luizm/webscraper/web_analysis.db'
+
+# Connect to the SQLite database
+conn = sqlite3.connect(db_path)
+cursor = conn.cursor()
+
+# SQL query to delete records with specific URLs
+try:
+    cursor.execute("DELETE FROM websites WHERE url LIKE '%jusbrasil.com.br%' OR url LIKE '%reclameaqui.com.br%' OR url OR url LIKE '%linkedin.com LIKE '%exame.com%' OR url LIKE '%blog.%'") 
+    conn.commit()
+    print(f"{cursor.rowcount} records deleted.")
+except sqlite3.Error as error:
+    print("Error occurred:", error)
+finally:
+    # Close the connection to the database
+    conn.close()

@@ -1,0 +1,79 @@
+Data from phase3\seo_status_data.json:
+First 20 rows:
+   total_images  images_with_alt_tags url_structure  ...               basic_seo_detail_plugins          basic_seo_detail_tap-targets  basic_seo_detail_structured-data
+0            48                    48  SEO Friendly  ...  {'weight': 1, 'group': 'seo-content'}  {'weight': 0, 'group': 'seo-mobile'}     {'weight': 0, 'group': 'N/A'}
+
+[1 rows x 25 columns]
+
+Summary Statistics:
+        total_images  images_with_alt_tags url_structure  ...               basic_seo_detail_plugins          basic_seo_detail_tap-targets basic_seo_detail_structured-data
+count            1.0                   1.0             1  ...                                      1                                     1                                1
+unique           NaN                   NaN             1  ...                                      1                                     1                                1
+top              NaN                   NaN  SEO Friendly  ...  {'weight': 1, 'group': 'seo-content'}  {'weight': 0, 'group': 'seo-mobile'}    {'weight': 0, 'group': 'N/A'}
+freq             NaN                   NaN             1  ...                                      1                                     1                                1
+mean            48.0                  48.0           NaN  ...                                    NaN                                   NaN                              NaN
+std              NaN                   NaN           NaN  ...                                    NaN                                   NaN                              NaN
+min             48.0                  48.0           NaN  ...                                    NaN                                   NaN                              NaN
+25%             48.0                  48.0           NaN  ...                                    NaN                                   NaN                              NaN
+50%             48.0                  48.0           NaN  ...                                    NaN                                   NaN                              NaN
+75%             48.0                  48.0           NaN  ...                                    NaN                                   NaN                              NaN
+max             48.0                  48.0           NaN  ...                                    NaN                                   NaN                              NaN
+
+[11 rows x 25 columns]
+
+Data Types:
+total_images                           int64
+images_with_alt_tags                   int64
+url_structure                         object
+schema_markup_present                   bool
+ssl_certificate                         bool
+mobile_friendliness                     bool
+word_count                             int64
+basic_seo_score                        int64
+additional_seo_data                   object
+advanced_seo_analysis                 object
+basic_seo_detail_viewport             object
+basic_seo_detail_document-title       object
+basic_seo_detail_meta-description     object
+basic_seo_detail_http-status-code     object
+basic_seo_detail_link-text            object
+basic_seo_detail_crawlable-anchors    object
+basic_seo_detail_is-crawlable         object
+basic_seo_detail_robots-txt           object
+basic_seo_detail_image-alt            object
+basic_seo_detail_hreflang             object
+basic_seo_detail_canonical            object
+basic_seo_detail_font-size            object
+basic_seo_detail_plugins              object
+basic_seo_detail_tap-targets          object
+basic_seo_detail_structured-data      object
+dtype: object
+
+Missing Values:
+total_images                          0
+images_with_alt_tags                  0
+url_structure                         0
+schema_markup_present                 0
+ssl_certificate                       0
+mobile_friendliness                   0
+word_count                            0
+basic_seo_score                       0
+additional_seo_data                   0
+advanced_seo_analysis                 0
+basic_seo_detail_viewport             0
+basic_seo_detail_document-title       0
+basic_seo_detail_meta-description     0
+basic_seo_detail_http-status-code     0
+basic_seo_detail_link-text            0
+basic_seo_detail_crawlable-anchors    0
+basic_seo_detail_is-crawlable         0
+basic_seo_detail_robots-txt           0
+basic_seo_detail_image-alt            0
+basic_seo_detail_hreflang             0
+basic_seo_detail_canonical            0
+basic_seo_detail_font-size            0
+basic_seo_detail_plugins              0
+basic_seo_detail_tap-targets          0
+basic_seo_detail_structured-data      0
+dtype: int64
+

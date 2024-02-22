@@ -1,0 +1,23 @@
+{
+    "css_framework": "No Framework Detected",
+    "modern_javascript_usage": "Modern JavaScript Framework Detected: React",
+    "responsive_design": "Responsive",
+    "html5_usage": "Non-HTML5",
+    "accessibility_features": "Accessibility Features Used",
+    "mobile_usability_mobile_usability_score": 0.49,
+    "mobile_usability_first_contentful_paint": "2.8\u00a0s",
+    "mobile_usability_speed_index": "3.4\u00a0s",
+    "mobile_usability_time_to_interactive": "12.7\u00a0s",
+    "mobile_usability_total_blocking_time": "1,210\u00a0ms",
+    "page_speed_insights_performance_score": 0.81,
+    "page_speed_insights_first_contentful_paint": "0.8\u00a0s",
+    "page_speed_insights_largest_contentful_paint": "1.7\u00a0s",
+    "page_speed_insights_cumulative_layout_shift": "0",
+    "page_speed_insights_speed_index": "1.4\u00a0s",
+    "page_speed_insights_time_to_interactive": "3.8\u00a0s",
+    "page_speed_insights_total_blocking_time": "260\u00a0ms",
+    "page_speed_insights_first_meaningful_paint": "0.8\u00a0s",
+    "page_speed_insights_efficiently_encode_images": null,
+    "page_speed_insights_render_blocking_resources": null,
+    "page_speed_insights_server_response_time": "Root document took 50\u00a0ms"
+}

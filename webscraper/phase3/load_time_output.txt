@@ -1,0 +1,109 @@
+Data from phase3\load_time_data.json:
+First 20 rows:
+   performance_score first_contentful_paint speed_index  ...                     optimization_unused-javascript                  optimization_modern-image-formats                  optimization_prioritize-lcp-image
+0               0.81                  0.8 s       1.4 s  ...  {'description': 'Reduce unused JavaScript', 'e...  {'description': 'Serve images in next-gen form...  {'description': 'Preload Largest Contentful Pa...
+
+[1 rows x 40 columns]
+
+Summary Statistics:
+        performance_score first_contentful_paint speed_index  ...                     optimization_unused-javascript                  optimization_modern-image-formats                  optimization_prioritize-lcp-image
+count                1.00                      1           1  ...                                                  1                                                  1                                                  1
+unique                NaN                      1           1  ...                                                  1                                                  1                                                  1
+top                   NaN                  0.8 s       1.4 s  ...  {'description': 'Reduce unused JavaScript', 'e...  {'description': 'Serve images in next-gen form...  {'description': 'Preload Largest Contentful Pa...
+freq                  NaN                      1           1  ...                                                  1                                                  1                                                  1
+mean                 0.81                    NaN         NaN  ...                                                NaN                                                NaN                                                NaN
+std                   NaN                    NaN         NaN  ...                                                NaN                                                NaN                                                NaN
+min                  0.81                    NaN         NaN  ...                                                NaN                                                NaN                                                NaN
+25%                  0.81                    NaN         NaN  ...                                                NaN                                                NaN                                                NaN
+50%                  0.81                    NaN         NaN  ...                                                NaN                                                NaN                                                NaN
+75%                  0.81                    NaN         NaN  ...                                                NaN                                                NaN                                                NaN
+max                  0.81                    NaN         NaN  ...                                                NaN                                                NaN                                                NaN
+
+[11 rows x 40 columns]
+
+Data Types:
+performance_score                          float64
+first_contentful_paint                      object
+speed_index                                 object
+time_to_interactive                         object
+first_meaningful_paint                      object
+total_blocking_time                         object
+largest_contentful_paint                    object
+cumulative_layout_shift                     object
+critical_request_chains                     object
+javascript_execution_time                   object
+main_thread_work_breakdown                  object
+offscreen_images                            object
+efficiently_encode_images                   object
+text_compression                            object
+render_blocking_resources                   object
+server_response_time                        object
+uses_efficient_image_formats                object
+minified_javascript                         object
+minified_css                                object
+properly_sized_images                       object
+third_party_payloads                        object
+render_blocking_resources_count              int64
+optimization_uses-rel-preconnect            object
+optimization_efficient-animated-content     object
+optimization_server-response-time           object
+optimization_offscreen-images               object
+optimization_legacy-javascript              object
+optimization_unminified-javascript          object
+optimization_uses-rel-preload               object
+optimization_render-blocking-resources      object
+optimization_unminified-css                 object
+optimization_uses-responsive-images         object
+optimization_redirects                      object
+optimization_uses-optimized-images          object
+optimization_unused-css-rules               object
+optimization_uses-text-compression          object
+optimization_duplicated-javascript          object
+optimization_unused-javascript              object
+optimization_modern-image-formats           object
+optimization_prioritize-lcp-image           object
+dtype: object
+
+Missing Values:
+performance_score                          0
+first_contentful_paint                     0
+speed_index                                0
+time_to_interactive                        0
+first_meaningful_paint                     0
+total_blocking_time                        0
+largest_contentful_paint                   0
+cumulative_layout_shift                    0
+critical_request_chains                    0
+javascript_execution_time                  0
+main_thread_work_breakdown                 0
+offscreen_images                           0
+efficiently_encode_images                  0
+text_compression                           0
+render_blocking_resources                  0
+server_response_time                       0
+uses_efficient_image_formats               0
+minified_javascript                        0
+minified_css                               0
+properly_sized_images                      0
+third_party_payloads                       0
+render_blocking_resources_count            0
+optimization_uses-rel-preconnect           0
+optimization_efficient-animated-content    0
+optimization_server-response-time          0
+optimization_offscreen-images              0
+optimization_legacy-javascript             0
+optimization_unminified-javascript         0
+optimization_uses-rel-preload              0
+optimization_render-blocking-resources     0
+optimization_unminified-css                0
+optimization_uses-responsive-images        0
+optimization_redirects                     0
+optimization_uses-optimized-images         0
+optimization_unused-css-rules              0
+optimization_uses-text-compression         0
+optimization_duplicated-javascript         0
+optimization_unused-javascript             0
+optimization_modern-image-formats          0
+optimization_prioritize-lcp-image          0
+dtype: int64
+

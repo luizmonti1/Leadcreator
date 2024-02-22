@@ -1,0 +1,33 @@
+{
+    "url": "",
+    "segment": "",
+    "seo_status": {
+        "basic_seo_score": "",
+        "on_page_seo": {
+            "total_images": "",
+            "images_with_alt_tags": "",
+            "url_structure": "",
+            "schema_markup_present": false
+        },
+        "technical_seo": {
+            "ssl_certificate": false,
+            "mobile_friendliness": false,
+            "word_count": ""
+        },
+        "advanced_seo_analysis": {}
+    },
+    "load_time": {
+        "Performance Score": "",
+        "First Contentful Paint": "",
+        "Speed Index": ""
+    },
+    "design_status": {
+        "CSS Framework": "",
+        "Mobile Usability": {},
+        "Responsive Design": false
+    },
+    "pwa_features_status": {
+        "score": "",
+        "details": {}
+    }
+}

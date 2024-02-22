@@ -1,0 +1,89 @@
+{
+    "total_images": 48,
+    "images_with_alt_tags": 48,
+    "url_structure": "SEO Friendly",
+    "schema_markup_present": false,
+    "ssl_certificate": true,
+    "mobile_friendliness": true,
+    "word_count": 623,
+    "basic_seo_score": 1,
+    "additional_seo_data": {
+        "title_tag": "Present",
+        "meta_description": "Present",
+        "h1_tags": "Missing or Multiple",
+        "canonical_tag": "Present"
+    },
+    "advanced_seo_analysis": {
+        "content_quality": {
+            "word_count": 0,
+            "readability": "To be calculated",
+            "unique_content": "To be checked"
+        },
+        "keyword_optimization": {
+            "keyword_counts": {}
+        },
+        "backlink_profile": {
+            "backlink_profile": "API integration required"
+        }
+    },
+    "basic_seo_detail_viewport": {
+        "weight": 1,
+        "group": "seo-mobile"
+    },
+    "basic_seo_detail_document-title": {
+        "weight": 1,
+        "group": "seo-content"
+    },
+    "basic_seo_detail_meta-description": {
+        "weight": 1,
+        "group": "seo-content"
+    },
+    "basic_seo_detail_http-status-code": {
+        "weight": 1,
+        "group": "seo-crawl"
+    },
+    "basic_seo_detail_link-text": {
+        "weight": 1,
+        "group": "seo-content"
+    },
+    "basic_seo_detail_crawlable-anchors": {
+        "weight": 1,
+        "group": "seo-crawl"
+    },
+    "basic_seo_detail_is-crawlable": {
+        "weight": 1,
+        "group": "seo-crawl"
+    },
+    "basic_seo_detail_robots-txt": {
+        "weight": 1,
+        "group": "seo-crawl"
+    },
+    "basic_seo_detail_image-alt": {
+        "weight": 1,
+        "group": "seo-content"
+    },
+    "basic_seo_detail_hreflang": {
+        "weight": 1,
+        "group": "seo-content"
+    },
+    "basic_seo_detail_canonical": {
+        "weight": 1,
+        "group": "seo-content"
+    },
+    "basic_seo_detail_font-size": {
+        "weight": 0,
+        "group": "seo-mobile"
+    },
+    "basic_seo_detail_plugins": {
+        "weight": 1,
+        "group": "seo-content"
+    },
+    "basic_seo_detail_tap-targets": {
+        "weight": 0,
+        "group": "seo-mobile"
+    },
+    "basic_seo_detail_structured-data": {
+        "weight": 0,
+        "group": "N/A"
+    }
+}

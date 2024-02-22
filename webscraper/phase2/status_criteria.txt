@@ -1,0 +1,238 @@
+### SEO Status Criteria
+
+1. Basic SEO Score
+2. Basic SEO Details:
+   - viewport
+   - document-title
+   - meta-description
+   - http-status-code
+   - link-text
+   - crawlable-anchors
+   - is-crawlable
+   - robots-txt
+   - image-alt
+   - hreflang
+   - canonical
+   - font-size
+   - plugins
+   - tap-targets
+   - structured-data
+3. Additional SEO Data:
+   - title_tag
+   - meta_description
+   - h1_tags
+   - canonical_tag
+4. Advanced SEO Analysis:
+   - content_quality (word_count, readability, unique_content)
+   - keyword_optimization (keyword_counts)
+   - backlink_profile
+
+### Load Time Criteria
+
+1. Performance Score
+2. First Contentful Paint
+3. Speed Index
+4. Time to Interactive
+5. First Meaningful Paint
+6. Total Blocking Time
+7. Largest Contentful Paint
+8. Cumulative Layout Shift
+9. Critical Request Chains
+10. JavaScript Execution Time
+11. Main Thread Work Breakdown
+12. Offscreen Images
+13. Efficiently Encode Images
+14. Text Compression
+15. Render-Blocking Resources
+16. Server Response Time
+17. Uses Efficient Image Formats
+18. Minified JavaScript
+19. Minified CSS
+20. Properly Sized Images
+21. Third-Party Payloads
+22. Render-Blocking Resources Count
+
+### Design Status Criteria
+
+1. Basic Checks:
+   - Outdated HTML
+   - CSS Framework
+   - Responsive Design
+   - Modern JavaScript
+2. Mobile Usability:
+   - Mobile Usability Score
+   - First Contentful Paint
+   - Speed Index
+   - Time to Interactive
+   - Total Blocking Time
+   - Largest Contentful Paint
+   - Cumulative Layout Shift
+3. PageSpeed Insights:
+   - Performance Score
+   - First Contentful Paint
+   - Speed Index
+   - Time to Interactive
+   - First Meaningful Paint
+   - Total Blocking Time
+   - Largest Contentful Paint
+   - Cumulative Layout Shift
+
+### PWA Features Status Criteria
+
+1. Basic PWA Score
+2. Detailed Features:
+   - installable-manifest
+   - splash-screen
+   - themed-omnibox
+   - content-width
+   - viewport
+   - maskable-icon
+   - pwa-cross-browser
+   - pwa-page-transitions
+   - pwa-each-page-has-url
+
+
+
+
+
+
+import json
+import sys
+from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from database import db_manager
+sys.path.append(str(Path(__file__).parent.parent))
+
+from scraper.google_search import perform_google_search
+from scraper.website_analysis import analyze_website
+from database.db_manager import DatabaseManager
+from config import setup_logger, GOOGLE_API_KEY, SEARCH_ENGINE_ID
+
+# Configure logger
+main_logger = setup_logger('main_logger', 'main.log')
+
+# Access the GOOGLE_API_KEY and SEARCH_ENGINE_ID variables
+print(GOOGLE_API_KEY)
+print(SEARCH_ENGINE_ID)
+
+
+segments = {
+        "alimentação": [
+            "Distribuidores de alimentos atacado",
+            "Fornecedores de ingredientes culinários",
+            "Redes de supermercados fornecedores",
+            "Fabricantes de produtos alimentícios",
+            "Equipamentos para restaurantes",
+            "Atacadistas de carnes e aves",
+            "Produtos orgânicos para revenda",
+            "Fornecedores de alimentos naturais",
+            "Distribuidores de bebidas premium",
+            "Fabricantes de alimentos congelados",
+            "Fornecedores de produtos de panificação",
+            "Redes de franquias alimentícias",
+            "Equipamentos de cozinha industrial",
+            "Distribuição de alimentos importados",
+            "Fabricantes de conservas alimentares",
+            "Fornecedores de alimentos sem glúten",
+            "Atacado de laticínios e derivados",
+            "Redes de fast food fornecedores",
+            "Distribuidores de alimentos veganos",
+            "Equipamentos de refrigeração para comércio",
+            "Fabricantes de suplementos alimentares",
+            "Fornecedores de alimentos gourmet",
+            "Atacadistas de frutas e vegetais",
+            "Fornecedores de especiarias e temperos",
+            "Fabricantes de alimentos artesanais",
+            "Tecnologia para segurança alimentar",
+            "Soluções em embalagens alimentícias",
+            "Atacado de produtos para confeitaria",
+            "Insumos para produção de alimentos",
+            "Fabricantes de snacks e aperitivos"
+            ],
+        "Cosméticos": [
+            "Distribuidores de produtos de beleza",
+            "Fabricantes de cosméticos naturais",
+            "Fornecedores de maquiagem profissional",
+            "Atacado de produtos para cuidados com a pele",
+            "Fabricantes de perfumes e fragrâncias",
+            "Empresas de cosméticos veganos",
+            "Distribuidores de produtos capilares",
+            "Fornecedores de cosméticos orgânicos",
+            "Atacadistas de produtos de higiene pessoal",
+            "Empresas de cosméticos anti-idade",
+        ],
+        "Redes Varejistas": [
+            "Lojas de departamento de grande porte",
+            "Redes de supermercados regionais",
+            "Cadeias de lojas de eletrônicos",
+            "Franquias de lojas de roupas",
+            "Redes de farmácias e drogarias",
+            "Lojas de artigos esportivos em varejo",
+            "Cadeias de lojas de brinquedos",
+            "Franquias de lojas de calçados",
+            "Redes de varejo de produtos para casa e jardim",
+            "Lojas de varejo de artigos de luxo",
+        ],
+        "Atacadistas": [
+            "Distribuidores atacadistas de alimentos",
+            "Atacado de roupas e acessórios",
+            "Fornecedores atacadistas de materiais de construção",
+            "Distribuidores de produtos eletrônicos em atacado",
+            "Atacado de produtos farmacêuticos",
+            "Fornecedores de atacado para hotéis e restaurantes",
+            "Distribuidores atacadistas de papelaria e material de escritório",
+            "Atacadistas de produtos para pet shops",
+            "Fornecedores atacadistas de autopeças",
+            "Atacado de produtos de limpeza e higiene",
+        ],
+        "Prestadores de Serviços": [
+            "Empresas de consultoria empresarial",
+            "Agências de marketing digital",
+            "Firmas de contabilidade e auditoria",
+            "Serviços de TI e desenvolvimento de software",
+            "Agências de viagens e turismo",
+            "Empresas de treinamento e desenvolvimento profissional",
+            "Prestadores de serviços jurídicos",
+            "Empresas de segurança e vigilância",
+            "Serviços de limpeza e manutenção predial",
+            "Agências de recrutamento e seleção de pessoal",
+        ]
+    }
+
+def main():
+    db_manager = DatabaseManager()
+    main_logger.info("Starting main process...")
+
+    segments = load_segments()
+    for segment, keywords in segments.items():
+        for keyword in keywords:
+            main_logger.info(f"Searching for keyword: {keyword}")
+            start_index = 1
+            results_analyzed = 0
+
+            while results_analyzed < 10:
+                found_websites = perform_google_search(keyword, start_index=start_index, num_results=10)
+
+                for url_data in found_websites:
+                    url = url_data['link']
+
+                    if url_data(url):
+                        main_logger.info(f"Analyzing website: {url}")
+                        try:
+                            analysis_result = analyze_website(url)
+                            seo_status = json.dumps(analysis_result.get('SEO', {}))
+                            load_time = json.dumps(analysis_result.get('Load Time', {}))
+                            design_status = json.dumps(analysis_result.get('Design', {}))
+                            pwa_features_status = json.dumps(analysis_result.get('PWA Features', {}))
+                            db_manager.insert_website_data(url, segment, seo_status, load_time, design_status, pwa_features_status))
+                            results_analyzed += 1
+
+                            if results_analyzed == 10:
+                                break
+                        except Exception as e:
+                            main_logger.error(f"Error analyzing website: {url}. Error message: {str(e)}")
+
+                start_index += 10  # Move to the next set of results
+
+    db_manager.close_connection()
+    main_logger.info("Main process completed.")

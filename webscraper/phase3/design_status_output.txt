@@ -1,0 +1,71 @@
+Data from phase3\design_status_data.json:
+First 20 rows:
+           css_framework                      modern_javascript_usage  ... page_speed_insights_render_blocking_resources page_speed_insights_server_response_time
+0  No Framework Detected  Modern JavaScript Framework Detected: React  ...                                          None                 Root document took 50 ms
+
+[1 rows x 21 columns]
+
+Summary Statistics:
+                css_framework                      modern_javascript_usage  ... page_speed_insights_render_blocking_resources page_speed_insights_server_response_time
+count                       1                                            1  ...                                             0                                        1
+unique                      1                                            1  ...                                             0                                        1
+top     No Framework Detected  Modern JavaScript Framework Detected: React  ...                                           NaN                 Root document took 50 ms
+freq                        1                                            1  ...                                           NaN                                        1
+mean                      NaN                                          NaN  ...                                           NaN                                      NaN
+std                       NaN                                          NaN  ...                                           NaN                                      NaN
+min                       NaN                                          NaN  ...                                           NaN                                      NaN
+25%                       NaN                                          NaN  ...                                           NaN                                      NaN
+50%                       NaN                                          NaN  ...                                           NaN                                      NaN
+75%                       NaN                                          NaN  ...                                           NaN                                      NaN
+max                       NaN                                          NaN  ...                                           NaN                                      NaN
+
+[11 rows x 21 columns]
+
+Data Types:
+css_framework                                     object
+modern_javascript_usage                           object
+responsive_design                                 object
+html5_usage                                       object
+accessibility_features                            object
+mobile_usability_mobile_usability_score          float64
+mobile_usability_first_contentful_paint           object
+mobile_usability_speed_index                      object
+mobile_usability_time_to_interactive              object
+mobile_usability_total_blocking_time              object
+page_speed_insights_performance_score            float64
+page_speed_insights_first_contentful_paint        object
+page_speed_insights_largest_contentful_paint      object
+page_speed_insights_cumulative_layout_shift       object
+page_speed_insights_speed_index                   object
+page_speed_insights_time_to_interactive           object
+page_speed_insights_total_blocking_time           object
+page_speed_insights_first_meaningful_paint        object
+page_speed_insights_efficiently_encode_images     object
+page_speed_insights_render_blocking_resources     object
+page_speed_insights_server_response_time          object
+dtype: object
+
+Missing Values:
+css_framework                                    0
+modern_javascript_usage                          0
+responsive_design                                0
+html5_usage                                      0
+accessibility_features                           0
+mobile_usability_mobile_usability_score          0
+mobile_usability_first_contentful_paint          0
+mobile_usability_speed_index                     0
+mobile_usability_time_to_interactive             0
+mobile_usability_total_blocking_time             0
+page_speed_insights_performance_score            0
+page_speed_insights_first_contentful_paint       0
+page_speed_insights_largest_contentful_paint     0
+page_speed_insights_cumulative_layout_shift      0
+page_speed_insights_speed_index                  0
+page_speed_insights_time_to_interactive          0
+page_speed_insights_total_blocking_time          0
+page_speed_insights_first_meaningful_paint       0
+page_speed_insights_efficiently_encode_images    1
+page_speed_insights_render_blocking_resources    1
+page_speed_insights_server_response_time         0
+dtype: int64
+
